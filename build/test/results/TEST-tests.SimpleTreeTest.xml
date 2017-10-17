@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="CoinPC" name="tests.SimpleTreeTest" skipped="0" tests="3" time="0.47" timestamp="2017-10-13T17:06:40">
+<testsuite errors="0" failures="0" hostname="CoinPC" name="tests.SimpleTreeTest" skipped="0" tests="3" time="0.38" timestamp="2017-10-17T19:18:30">
   <properties>
     <property name="libs.jsp-compiler.javadoc" value="" />
     <property name="netbeans.autoupdate.country" value="US" />
@@ -56,7 +56,7 @@
     <property name="copylibs.rebase" value="true" />
     <property name="libs.spring-webmvc3.0.maven-pom" value="" />
     <property name="libs.swing-layout.maven-pom" value="" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner tests.SimpleTreeTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/coinbr/programming/java/NetBeansProjects/Trees/build/test/results/TEST-tests.SimpleTreeTest.xml crashfile=/home/coinbr/programming/java/NetBeansProjects/Trees/build/junitvmwatcher427329036327569986.properties propsfile=/home/coinbr/programming/java/NetBeansProjects/Trees/build/junit3550706501723345109.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner tests.SimpleTreeTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/coinbr/programming/java/NetBeansProjects/Trees/build/test/results/TEST-tests.SimpleTreeTest.xml crashfile=/home/coinbr/programming/java/NetBeansProjects/Trees/build/junitvmwatcher8914861107485561772.properties propsfile=/home/coinbr/programming/java/NetBeansProjects/Trees/build/junit6379415372299690796.properties" />
     <property name="build.classes.dir" value="build/classes" />
     <property name="netbeans.accept_license_class" value="org.netbeans.license.AcceptLicense" />
     <property name="build.sysclasspath" value="ignore" />
@@ -399,8 +399,8 @@
     <property name="libs.javaee-web-api-7.0.javadoc" value="/home/coinbr/programming/java/netbeans-8.1/enterprise/docs/javaee-doc-api.jar" />
   </properties>
   <testcase classname="tests.SimpleTreeTest" name="testGetSize" time="0.002" />
-  <testcase classname="tests.SimpleTreeTest" name="testGetElements" time="0.0" />
-  <testcase classname="tests.SimpleTreeTest" name="testGetTreeHeight" time="0.0" />
+  <testcase classname="tests.SimpleTreeTest" name="testGetElements" time="0.001" />
+  <testcase classname="tests.SimpleTreeTest" name="testGetTreeHeight" time="0.001" />
   <system-out><![CDATA[testGetTreeHeight
 └── 0
     ├── 0_1a
